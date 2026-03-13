@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Samy BOUSSAD 👋
 
-<!--
-**samyb76/samyb76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year Bachelor student in **Engineering Sciences – Artificial Intelligence** at **CESI Rouen (France)**.
+💻 Passionate about **Artificial Intelligence, Machine Learning, and Web Development**.
+🚀 Currently developing projects and improving my skills to become an **AI Engineer**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* 🎓 Bachelor in **Engineering Sciences – Artificial Intelligence**
+* 🤖 Interested in **Artificial Intelligence & Machine Learning**
+* 🌐 Also passionate about **Web Development**
+* 💡 I enjoy solving problems and building projects
+* 🎯 Goal: Become an **AI Engineer**
+
+---
+
+## 💻 Tech Skills
+
+**Languages**
+
+* Python
+* C
+* JavaScript
+* PHP
+* SQL
+
+**Web**
+
+* HTML
+* CSS
+
+---
+
+## 📫 Contact
+
+💼 LinkedIn: https://www.linkedin.com/in/samy-boussad76/
+📧 Email: samy.boussad@viacesi.fr
+
+---
+
+⭐ Thanks for visiting my profile!
