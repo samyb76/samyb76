@@ -1,6 +1,6 @@
 # Hi, I'm Samy BOUSSAD 👋
 
-* 🎓 First-year Bachelor student in **Engineering Sciences – Artificial Intelligence** at **CESI Rouen (France)**.
+* 🎓 Second-year Bachelor student in **Engineering Sciences – Artificial Intelligence** at **CESI Rouen (France)**.
 * 💻 Passionate about **Artificial Intelligence, Machine Learning, and Web Development**.
 * 🚀 Currently developing projects and improving my skills to become an **AI Engineer**.
 
